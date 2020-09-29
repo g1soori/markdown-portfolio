@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My name is **Jeewan Sooriyaarachchi**. I was born and raised in a town called *Galle* in _Stri Lanka_.
